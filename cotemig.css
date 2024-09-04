@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+}
+
+table {
+  width: 100%;
+  height: 950px;
+  background-image: url(ima/fundo\ 1.png);
+  background-size: contain;
+}
+
+#coluna1 {
+  background-color: indigo;
+}
+
+.roxo {
+  width: 450px;
+}
+
+.formulario {
+  text-align: center;
+  width: 20px;
+}
+.matricula {
+  text-align: center;
+  margin-left: 5px;
+}
+.telefone {
+  text-align: center;
+  margin-left: 5px;
+}
+.google {
+  text-align: center;
+  margin-left: 500px;
+}
+
+.coluna7 {
+  background-color: rgb(240, 94, 172);
+  color: white;
+}
+
+.coluna8 {
+  background-color: rgb(104, 190, 104);
+  color: blueviolet;
+}
+
+.coluna9 {
+  background-color: darkviolet;
+}
+#roxo {
+  background-color: indigo;
+}
+#display {
+  display: flex;
+}
